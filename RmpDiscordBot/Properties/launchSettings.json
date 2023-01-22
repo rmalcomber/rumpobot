@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "RmpDiscordBot": {
+      "commandName": "Project",
+      "commandLineArgs": "-i \"C:\\Users\\royst\\source\\repos\\RmpDiscordBot\\RmpDiscordBot\\StaticCommands.json\"",
+      "environmentVariables": {
+        "BOTKEY": "NDQ5NTQwMTY0NDQwNjg2NjIz.DemKjw.CyMp2yiBRktOq-i2p14WYXiElAY",
+        "NICKLOC": "C:\\\\Users\\\\royst\\\\source\\\\repos\\\\RmpDiscordBot\\\\NickImages\\\\"
+      }
+    }
+  }
+}

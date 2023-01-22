@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28407.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RmpDiscordBot", "RmpDiscordBot\RmpDiscordBot.csproj", "{B31BECCF-6B5E-4818-A091-80D4439D98C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RumpoBot", "RumpoBot\RumpoBot.csproj", "{1D9D8809-D225-4974-894A-8B5F6CB7F348}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscordLib", "DiscordLib\DiscordLib.csproj", "{252CEC88-BDAF-4BE0-B71D-C5DB3E63896B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonLib", "ServicesLib\CommonLib.csproj", "{DAA544CD-DF50-4717-80DC-69138F12A224}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B31BECCF-6B5E-4818-A091-80D4439D98C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31BECCF-6B5E-4818-A091-80D4439D98C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31BECCF-6B5E-4818-A091-80D4439D98C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31BECCF-6B5E-4818-A091-80D4439D98C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D9D8809-D225-4974-894A-8B5F6CB7F348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D9D8809-D225-4974-894A-8B5F6CB7F348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D9D8809-D225-4974-894A-8B5F6CB7F348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D9D8809-D225-4974-894A-8B5F6CB7F348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252CEC88-BDAF-4BE0-B71D-C5DB3E63896B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252CEC88-BDAF-4BE0-B71D-C5DB3E63896B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252CEC88-BDAF-4BE0-B71D-C5DB3E63896B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252CEC88-BDAF-4BE0-B71D-C5DB3E63896B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAA544CD-DF50-4717-80DC-69138F12A224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA544CD-DF50-4717-80DC-69138F12A224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA544CD-DF50-4717-80DC-69138F12A224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA544CD-DF50-4717-80DC-69138F12A224}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C3A94F9-A321-471A-9E74-820745A11E53}
+	EndGlobalSection
+EndGlobal

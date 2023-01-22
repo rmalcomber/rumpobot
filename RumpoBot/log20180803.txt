@@ -1,0 +1,13 @@
+2018-08-03 20:07:01.694 +00:00 [INF] Starting Services...
+2018-08-03 20:07:01.914 +00:00 [INF] Starting Discord Service
+2018-08-03 20:07:02.258 +00:00 [INF] Discord.Net v1.0.2 (API v6)
+2018-08-03 20:12:48.229 +00:00 [INF] Starting Services...
+2018-08-03 20:12:48.443 +00:00 [INF] Starting Discord Service
+2018-08-03 20:12:48.738 +00:00 [INF] Discord.Net v1.0.2 (API v6)
+2018-08-03 20:13:55.351 +00:00 [INF] Starting Services...
+2018-08-03 20:13:55.571 +00:00 [INF] Starting Discord Service
+2018-08-03 20:14:18.291 +00:00 [INF] Discord.Net v1.0.2 (API v6)
+2018-08-03 20:14:19.515 +00:00 [INF] Discord Service Started
+2018-08-03 20:14:19.536 +00:00 [INF] Connecting
+2018-08-03 20:14:20.669 +00:00 [INF] Connected
+2018-08-03 20:14:21.139 +00:00 [INF] Ready

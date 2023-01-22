@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  rumpobot:
+    image: ${DOCKER_REGISTRY}rumpobot
+    build:
+      context: .
+      dockerfile: RumpoBot/Dockerfile
+    environment: 
+      "DISCORDKEY": "NDQ5NTQwMTY0NDQwNjg2NjIz.DemKjw.CyMp2yiBRktOq-i2p14WYXiElAY"

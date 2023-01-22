@@ -1,0 +1,16 @@
+{
+  "commands": [
+    {
+      "command": "!testing",
+      "response": "Response from command"
+    },
+    {
+      "command": "!roy",
+      "response": "Royston Malcomber says hello!"
+    },
+        {
+      "command": "!date",
+      "response": "Hello there, the date today is {date}"
+    }
+  ]
+}
