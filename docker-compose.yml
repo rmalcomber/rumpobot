@@ -7,4 +7,4 @@ services:
       context: .
       dockerfile: RumpoBot/Dockerfile
     environment: 
-      "DISCORDKEY": "NDQ5NTQwMTY0NDQwNjg2NjIz.DemKjw.CyMp2yiBRktOq-i2p14WYXiElAY"
+      "DISCORDKEY": "CHANGEME"
